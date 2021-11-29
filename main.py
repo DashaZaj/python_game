@@ -1,7 +1,5 @@
 import logging
-import keyboard
 from kivy.app import App
-# from kivy.core.text import Label
 from kivy.uix.popup import Popup
 from kivy.uix.button import Button
 from kivy.uix.gridlayout import GridLayout
